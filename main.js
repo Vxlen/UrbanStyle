@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/graphql";
+const API_URL = "https://backend-urbanstyle-production.up.railway.app/graphql";
 
 let categoriaSeleccionada = 0;
 
